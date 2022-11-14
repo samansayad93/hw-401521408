@@ -3,10 +3,14 @@
 
 using namespace std;
 
+int check_string (string a,string b){
+
+}
+
 int main(){
     string a,b;
     cin>>a>>b;
-    if(check_string){
+    if(check_string(a,b)){
         cout<<"YES"<<endl;
     }
     else{
