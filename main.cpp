@@ -4,7 +4,7 @@
 using namespace std;
 
 int check_string (string a,string b){
-
+    int i = a.length();
 }
 
 int main(){
